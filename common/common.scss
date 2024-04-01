@@ -520,11 +520,13 @@ html body #main-outlet {
   margin-top: 2em;
 }
 
+@import 'https://fonts.googleapis.com/css?family=Inter:100,300,400';
+
 // published page additions
 .published-page-content-wrapper {
   max-width: 1000px;
   margin-top: 30px;
-  @import 'https://fonts.googleapis.com/css?family=Inter:100,300,400';
+  
   font-family: "Inter";
   margin-bottom: 50px;
   background: var(--secondary);
