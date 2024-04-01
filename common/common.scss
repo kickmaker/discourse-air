@@ -533,6 +533,7 @@ html body #main-outlet {
 .published-page-content-wrapper {
   max-width: 1000px;
   margin-top: 30px;
+  font-family: "Lucida Console";
   margin-bottom: 50px;
   background: var(--secondary);
   border-radius: 1em;
@@ -546,7 +547,6 @@ html body #main-outlet {
 }
 
 .published-page {
-    font-family: "Lucida Console"
   .background-container {
     display: none;
   }
